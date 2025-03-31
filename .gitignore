@@ -1,12 +1,2 @@
 # Archivos de caché de Python
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Archivos específicos del entorno de desarrollo
-.vscode/
-.idea/
-
-# Archivos temporales del sistema
-.DS_Store
-Thumbs.db
